@@ -10,6 +10,7 @@
             // ENTRADA
             // PROCESAMIENTO
             // SALIDA
+            Console.WriteLine("Mi nombre es: Alberto");
         }
     }
 }
