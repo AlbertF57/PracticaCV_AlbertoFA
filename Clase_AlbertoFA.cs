@@ -8,5 +8,11 @@ namespace PracticaCV_AlbertoFA
 {
     internal class Clase_AlbertoFA
     {
+        // CONSTANTES
+        // VARIABLES
+        // INICIALIZACION
+        // ENTRADA
+        // PROCESAMIENTO
+        // SALIDA
     }
 }
