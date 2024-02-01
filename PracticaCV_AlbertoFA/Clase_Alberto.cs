@@ -8,5 +8,16 @@ namespace PracticaCV_AlbertoFA
 {
     internal class Clase_Alberto
     {
+        // CONSTANTES
+
+        // MIEMBROS PRIVADOS
+
+        // CONSTRUCTORES
+
+        // PROPIEDADES
+
+        // MÉTODOS PRIVADOS
+
+        // MÉTODOS PÚBLICOS
     }
 }
